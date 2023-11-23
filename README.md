@@ -1,6 +1,6 @@
 # 100 Days of Python - Day 23
 ## Turtle Crossing Game
-![Game Demo](https://i.ibb.co/vhLtKXs/ss-1.png)
+![Game Demo](https://i.ibb.co/vhLtKXs/ss-1.png)\n
 Cross the road and while avoiding hitting cars
 ### Pre Requisites
 1. Python 3.8 and above
